@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="customer_interface:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/customer_interface_jar</output-path>
+    <root id="archive" name="customer_interface.jar">
+      <element id="module-output" name="customer_interface" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jaf-1_1_1/jaf-1.1.1/activation.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/javamail1_4_7/javamail-1.4.7/mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-j-8.3.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
